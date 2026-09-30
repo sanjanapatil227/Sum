@@ -6,3 +6,4 @@ Product = a * b
 
 print("Sum =", sum)
 print("Product=",Product)
+print("Thank you")
